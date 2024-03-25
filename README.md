@@ -2,7 +2,7 @@
   <img src="./docs/title-image.webp" alt="PDF to Audiobook Converter" width="300">
 </p>
 
-<h1 align="center">PDF to Audiobook Converter</h1>
+<h1 align="center">PDF to Audio Converter</h1>
 
 I needed a quick tool to convert a long PDF to a single audio file so I decided to write a very simple small script to do so. Expect nothing fancy. It's just a tool you can clone, execute and profit from.
 
