@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./docs/title-image.webp" alt="PDF to Audiobook Converter">
+  <img src="./docs/title-image.webp" alt="PDF to Audiobook Converter" width="300">
 </p>
 
 <h1 align="center">PDF to Audiobook Converter</h1>
 
-This project provides a script that converts PDF documents into audiobooks using OpenAI's text-to-speech capabilities. It splits the PDF text into chunks, generates audio files for each chunk, and then merges these into a single audiobook file.
+I needed a quick tool to convert a long PDF to a single audio file so I decided to write a very simple small script to do so. Expect nothing fancy. It's just a tool you can clone, execute and profit from.
 
-I needed a quick tool to convert my PDF to some audio file.
+This project provides a script that converts PDF documents into audiobooks using OpenAI's text-to-speech capabilities. It splits the PDF text into chunks, generates audio files for each chunk, and then merges these into a single audiobook file.
 
 ## Requirements
 
